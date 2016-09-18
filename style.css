@@ -155,7 +155,7 @@
     }
     
     .logo {
-        width: 30%;
+        width: 25%;
     }
     
     .logo img {
@@ -174,7 +174,7 @@
         display: flex;
         position: relative;
         margin-top: 50px;
-        width: 70%;
+        width: 75%;
     }
     
     .menu1>li {
